@@ -1,7 +1,9 @@
-Steps for this implementation:- Importing libraries, assigning BGR values for color. ...
-Step-1 – Importing required libraries. ...
-Step-2 – Creating a window, that provides various options. ...
-Step-3 – Capturing a video using a webcam and grabbing frames. ...
-Step-4 – Using different morphing techniques. ...
-Step-5 – Displaying output.
-Aug 29, 2020
+# Virtual Paint using OpenCV
+
+Steps for this implementation:- 
+1. Importing libraries, assigning BGR values for color.
+2. Importing required libraries.
+3. Creating a window, that provides various options.
+4. Using different morphing techniques.
+5. Displaying output.
+
